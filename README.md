@@ -40,10 +40,10 @@ whether it named the exact item correctly. The confusion matrix (below)
 confirms the model's errors stay within material types (metal↔metal,
 cardboard↔cardboard) rather than crossing disposal categories.
 
-### Confusion matrix
+### UI Interface
 
-![Confusion Matrix](results/confusion_matrix.png)
-![Confusion Matrix Normalized](results/confusion_matrix_normalized.png)
+<img width="1025" height="682" alt="Screenshot 2026-08-30 223410" src="https://github.com/user-attachments/assets/3af223fd-0437-4289-b0af-53b1f7912477" />
+
 
 ## Dataset details
 
